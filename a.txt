@@ -11,5 +11,3 @@ cc2
 cc2
 cc2
 ex
-ex
-ex
